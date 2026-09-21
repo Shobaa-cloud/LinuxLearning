@@ -1,0 +1,1 @@
+I will be posting whatever I learn about linux here with mini projects for better linux understanding!
